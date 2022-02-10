@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odion personal site</title>
+</head>
+<body>
+  <table cellspacing="30px"   >
+     <td>   <img src="Screenshot_20210914-184735_WhatsApp.jpg" alt="my profile pics" sizes="small" ></td>
+      <td><p>enaiikele odion</p>
+         <p><em> the founder of  <strong><a href="#"> ko development</a></strong> of kingkelvis-ventures</em>. </p>
+          <p> i am a mobile and web developer. i love rabbits as pets.</p>
+        </td>
+  </table>
+   
 
-You can use the [editor on GitHub](https://github.com/enaikeleodion/cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ 
+    
+    <hr>
+   <h3>books and researches</h3>
+   <ul>
+       <li>the complete mobile-app development Bootcamp</li>
+       <li>the complete web development Bootcamp</li>
+    </ul>
+     <hr>
+    <h3>Work Experience</h3>
+    <table>
+        <thead>
+            <tr>
+                <td>Dates </td>
+                <td>work</td>
+                
+                
+                  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            </tr>
+        </thead>
+            <tbody>
+        
+             <tr>
+              <td>2018-2020 </td>
+               <td>lead Developer</td>
+             </tr>
+                     
+               
+                 <tr>
+                  <td> 2020</td>
+                 <td> Researcher at the institute of Federal Colledge of fisheries and Marine Technology</td>
+                </tr>
+                        
+                      
 
-### Markdown
+                
+                <tr> 
+                    <td>   <a href="hobbies.html"> <h3>my hobbies</h3></a>  </td>
+                    <td> <a href="contact.html"> <h3>contact me</h3></a></td>
+                 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                 </tr>
+           </tbody>
+   
+    </table> 
 
-```markdown
-Syntax highlighted code block
+   
+   
+   
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enaikeleodion/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>  
